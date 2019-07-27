@@ -127,3 +127,9 @@ PRODUCT_PACKAGES += \
 
 PRODUCT_PACKAGES += \
 	ch.deletescape.lawnchair.plah
+
+# Volte
+PRODUCT_PACKAGES += \
+    QtiTelephonyService \
+    ims \
+    imssettings
